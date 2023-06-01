@@ -1,10 +1,36 @@
 [
     {
-        "id": 1,
-        "name": "world",
-        "info": "Lorem Ipsum",
-        "image": "",
-        "price": "8.88"
-
+        "Id": 1,
+        "Name": "Talos IV",
+        "Class": "M",
+        "Type": "Planet",
+        "State":"Habitable (2267)",
+        "Satelite": "None",
+        "Native species": "Talosians",
+        "Info": "Fourth planet of the Talos System, Class M, with a gravity of 0.9, atmosphere of oxygen and nitrogen with some inert elements.",
+        "Image": "https://static.wikia.nocookie.net/memoryalpha/images/5/59/Talos_IV%2C_2257.jpg/revision/latest/scale-to-width-down/350?cb=20190317034300&path-prefix=en"
+    },
+    {
+        "Id": 2,
+        "Name": "Terra Nova",
+        "Class": "L",
+        "Type": "Planet",
+        "State":"Unoccupied",
+        "Satelite": "None",
+        "Native species": "None",
+        "Info": "Planet where the first space colonization in deep space went. It is located 20 light years from Earth. The planet was colonized in the year 2076. Shortly after arriving, an asteroid collided with the planet, raising a radioactive fallout that killed almost the entire population; their descendants hid in caves, and they believe that humans from Earth were responsible for the catastrophe.",
+        "Image": "https://static.wikia.nocookie.net/memoryalpha/images/1/18/Terranova.jpg/revision/latest?cb=20051022224919&path-prefix=es"
+    },
+    {
+        "Id": 3,
+        "Name": "Valakis",
+        "Class": "M",
+        "Type": "Planet",
+        "State":"Habitable (3457)",
+        "Satelite": "None",
+        "Native species": "Valakians and Menk",
+        "Info": "Valakis is a planet that was the home world of two humanoid species, the Valakians and the Menks. Despite their differences, the Valakians and the Menks coexisted peacefully. The Valakians provided land, food, and in some cases employment to the Menks.",
+        "Image": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Valakis_from_space.jpg/revision/latest/scale-to-width-down/180?cb=20060120224136&path-prefix=en"
     }
+
 ]
