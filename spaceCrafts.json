@@ -204,7 +204,7 @@
       "name": "USS Enterprise-J",
       "registry": "NCC-1701-J",
       "status": "Active",
-      "dateStatus": 26th century,
+      "dateStatus": "26th century",
       "spacecraftClass": "Unspecified",
       "owner": "United Federation of Planets",
       "operator": "Starfleet"
