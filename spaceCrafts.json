@@ -2,7 +2,7 @@
   "spacecrafts": [
     {
       "spaceCraftID": 1,
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/USS_Enterprise_1701D.jpg",
       "name": "USS Enterprise",
       "registry": "NCC-1701",
       "status": "Preserved",
