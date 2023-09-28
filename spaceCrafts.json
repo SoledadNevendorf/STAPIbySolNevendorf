@@ -1,156 +1,279 @@
 {
-    "spacecrafts": [
-      {
-        "name": "Enterprise",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/USS_Enterprise_1701D.jpg",
-        "registry": "NX-01",
-        "status": "Preserved",
-        "dateStatus": 2402,
-        "spacecraftClass": {
-          "name": "NX class"
-        },
-        "owner": {
-          "name": "United Earth"
-        },
-        "operator": {
-          "name": "Military Assault Command Operations"
-        }
-      },
-      {
-        "name": "USS Voyager",
-        "registry": "NCC-74656",
-        "status": "Active",
-        "dateStatus": 2371,
-        "spacecraftClass": {
-          "name": "Intrepid class"
-        },
-        "owner": {
-          "name": "United Federation of Planets"
-        },
-        "operator": {
-          "name": "Starfleet"
-        }
-      },
-      {
-        "name": "Klingon Bird-of-Prey",
-        "registry": "Varies",
-        "status": "Active",
-        "dateStatus": null,
-        "spacecraftClass": {
-          "name": "Bird-of-Prey class"
-        },
-        "owner": {
-          "name": "Klingon Empire"
-        },
-        "operator": {
-          "name": "Klingon Defense Force"
-        }
-      },
-      {
-        "name": "Romulan Warbird",
-        "registry": "Varies",
-        "status": "Active",
-        "dateStatus": null,
-        "spacecraftClass": {
-          "name": "Warbird class"
-        },
-        "owner": {
-          "name": "Romulan Star Empire"
-        },
-        "operator": {
-          "name": "Romulan Star Navy"
-        }
-      },
-      {
-        "name": "Borg Cube",
-        "registry": "Varies",
-        "status": "Active",
-        "dateStatus": null,
-        "spacecraftClass": {
-          "name": "Cube class"
-        },
-        "owner": {
-          "name": "Borg Collective"
-        },
-        "operator": {
-          "name": "Borg Collective"
-        }
-      },
-      {
-        "name": "USS Defiant",
-        "registry": "NX-74205",
-        "status": "Active",
-        "dateStatus": 2370,
-        "spacecraftClass": {
-          "name": "Defiant class"
-        },
-        "owner": {
-          "name": "United Federation of Planets"
-        },
-        "operator": {
-          "name": "Starfleet"
-        }
-      },
-      {
-        "name": "USS Excelsior",
-        "registry": "NCC-2000",
-        "status": "Active",
-        "dateStatus": 2285,
-        "spacecraftClass": {
-          "name": "Excelsior class"
-        },
-        "owner": {
-          "name": "United Federation of Planets"
-        },
-        "operator": {
-          "name": "Starfleet"
-        }
-      },
-      {
-        "name": "Cardassian Galor-class Warship",
-        "registry": "Varies",
-        "status": "Active",
-        "dateStatus": null,
-        "spacecraftClass": {
-          "name": "Galor class"
-        },
-        "owner": {
-          "name": "Cardassian Union"
-        },
-        "operator": {
-          "name": "Cardassian Central Command"
-        }
-      },
-      {
-        "name": "USS Reliant",
-        "registry": "NCC-1864",
-        "status": "Destroyed",
-        "dateStatus": 2285,
-        "spacecraftClass": {
-          "name": "Miranda class"
-        },
-        "owner": {
-          "name": "United Federation of Planets"
-        },
-        "operator": {
-          "name": "Starfleet"
-        }
-      },
-      {
-        "name": "Ferengi Marauder",
-        "registry": "Varies",
-        "status": "Active",
-        "dateStatus": null,
-        "spacecraftClass": {
-          "name": "Marauder class"
-        },
-        "owner": {
-          "name": "Ferengi Alliance"
-        },
-        "operator": {
-          "name": "Ferengi Commerce Authority"
-        }
-      }
-    ]
-  }
-  
+  "spacecrafts": [
+    {
+      "spaceCraftID": 1,
+      "image": "",
+      "name": "USS Enterprise",
+      "registry": "NCC-1701",
+      "status": "Preserved",
+      "dateStatus": 2402,
+      "spacecraftClass": "Constitution class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 2,
+      "image": "",
+      "name": "USS Voyager",
+      "registry": "NCC-74656",
+      "status": "Active",
+      "dateStatus": 2371,
+      "spacecraftClass": "Intrepid class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 3,
+      "image": "",
+      "name": "Klingon Bird-of-Prey",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Bird-of-Prey class",
+      "owner": "Klingon Empire",
+      "operator": "Klingon Defense Force"
+    },
+    {
+      "spaceCraftID": 4,
+      "image": "",
+      "name": "Romulan Warbird",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Warbird class",
+      "owner": "Romulan Star Empire",
+      "operator": "Romulan Star Navy"
+    },
+    {
+      "spaceCraftID": 5,
+      "image": "",
+      "name": "Borg Cube",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Cube class",
+      "owner": "Borg Collective",
+      "operator": "Borg Collective"
+    },
+    {
+      "spaceCraftID": 6,
+      "image": "",
+      "name": "USS Defiant",
+      "registry": "NX-74205",
+      "status": "Active",
+      "dateStatus": 2370,
+      "spacecraftClass": "Defiant class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 7,
+      "image": "",
+      "name": "USS Excelsior",
+      "registry": "NCC-2000",
+      "status": "Active",
+      "dateStatus": 2285,
+      "spacecraftClass": "Excelsior class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 8,
+      "image": "",
+      "name": "Cardassian Galor-class Warship",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Galor class",
+      "owner": "Cardassian Union",
+      "operator": "Cardassian Central Command"
+    },
+    {
+      "spaceCraftID": 9,
+      "image": "",
+      "name": "USS Reliant",
+      "registry": "NCC-1864",
+      "status": "Destroyed",
+      "dateStatus": 2285,
+      "spacecraftClass": "Miranda class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 10,
+      "image": "",
+      "name": "Ferengi Marauder",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Marauder class",
+      "owner": "Ferengi Alliance",
+      "operator": "Ferengi Commerce Authority"
+    },
+    {
+      "spaceCraftID": 11,
+      "image": "",
+      "name": "USS Discovery",
+      "registry": "NCC-1031",
+      "status": "Active",
+      "dateStatus": 2256,
+      "spacecraftClass": "Crossfield class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 12,
+      "image": "",
+      "name": "Bajoran Solar Sail",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Solar Sail class",
+      "owner": "Bajoran Provisional Government",
+      "operator": "Bajoran Militia"
+    },
+    {
+      "spaceCraftID": 13,
+      "image": "",
+      "name": "USS Stargazer",
+      "registry": "NCC-2893",
+      "status": "Destroyed",
+      "dateStatus": 2355,
+      "spacecraftClass": "Constellation class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 14,
+      "image": "",
+      "name": "Jem'Hadar Fighter",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Fighter class",
+      "owner": "Dominion",
+      "operator": "Dominion"
+    },
+    {
+      "spaceCraftID": 15,
+      "image": "",
+      "name": "USS Enterprise-D",
+      "registry": "NCC-1701-D",
+      "status": "Destroyed",
+      "dateStatus": 2371,
+      "spacecraftClass": "Galaxy class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 16,
+      "image": "",
+      "name": "Kazon Raider",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Raider class",
+      "owner": "Kazon Collective",
+      "operator": "Various Kazon sects"
+    },
+    {
+      "spaceCraftID": 17,
+      "image": "",
+      "name": "USS Enterprise-E",
+      "registry": "NCC-1701-E",
+      "status": "Active",
+      "dateStatus": 2373,
+      "spacecraftClass": "Sovereign class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 18,
+      "image": "",
+      "name": "Bajoran Solar Sailor",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Solar Sailor class",
+      "owner": "Bajoran Provisional Government",
+      "operator": "Bajoran Militia"
+    },
+    {
+      "spaceCraftID": 19,
+      "image": "",
+      "name": "USS Enterprise-J",
+      "registry": "NCC-1701-J",
+      "status": "Active",
+      "dateStatus": 26th century,
+      "spacecraftClass": "Unspecified",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 20,
+      "image": "",
+      "name": "Romulan D'deridex-class Warbird",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "D'deridex class",
+      "owner": "Romulan Star Empire",
+      "operator": "Romulan Star Navy"
+    },
+    {
+      "spaceCraftID": 21,
+      "image": "",
+      "name": "USS Pasteur",
+      "registry": "NCC-58925",
+      "status": "Active",
+      "dateStatus": 2370,
+      "spacecraftClass": "Olympic class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 22,
+      "image": "",
+      "name": "Klingon Vor'cha-class Attack Cruiser",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Vor'cha class",
+      "owner": "Klingon Empire",
+      "operator": "Klingon Defense Force"
+    },
+    {
+      "spaceCraftID": 23,
+      "image": "",
+      "name": "USS Prometheus",
+      "registry": "NX-59650",
+      "status": "Active",
+      "dateStatus": 2374,
+      "spacecraftClass": "Prometheus class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    },
+    {
+      "spaceCraftID": 24,
+      "image": "",
+      "name": "Borg Sphere",
+      "registry": "Varies",
+      "status": "Active",
+      "dateStatus": null,
+      "spacecraftClass": "Sphere class",
+      "owner": "Borg Collective",
+      "operator": "Borg Collective"
+    },
+    {
+      "spaceCraftID": 25,
+      "image": "",
+      "name": "USS Titan",
+      "registry": "NCC-80102",
+      "status": "Active",
+      "dateStatus": 2380,
+      "spacecraftClass": "Luna class",
+      "owner": "United Federation of Planets",
+      "operator": "Starfleet"
+    }
+  ]
+}
