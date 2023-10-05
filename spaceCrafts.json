@@ -275,5 +275,184 @@
       "owner": "United Federation of Planets",
       "operator": "Starfleet"
     }
-  ]
+  ],
+  "starTrekTech": [
+    {
+      "id": 1,
+      "name": "Tricorder",
+      "info": "A handheld scanning device used for data analysis and environmental monitoring.",
+      "price": 500,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Phaser",
+      "info": "A directed energy weapon used by Starfleet personnel for self-defense and stunning enemies.",
+      "price": 1000,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Communicator",
+      "info": "A handheld communication device used for voice communication over long distances.",
+      "price": 300,
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Replicator",
+      "info": "A machine capable of creating food, beverages, and other objects from raw matter.",
+      "price": 1500,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Warp Drive",
+      "info": "A propulsion system that enables faster-than-light travel for starships.",
+      "price": 5000,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Holodeck",
+      "info": "A simulated reality environment used for recreation and training.",
+      "price": 2000,
+      "image": ""
+    },
+    {
+      "id": 7,
+      "name": "Medical Tricorder",
+      "info": "A specialized tricorder used for medical diagnosis and treatment.",
+      "price": 800,
+      "image": ""
+    },
+    {
+      "id": 8,
+      "name": "Transporter",
+      "info": "A device for instantaneously transporting objects or people from one location to another.",
+      "price": 2500,
+      "image": ""
+    },
+    {
+      "id": 9,
+      "name": "Phaser Rifle",
+      "info": "A more powerful version of the phaser used for combat and defense.",
+      "price": 1200,
+      "image": ""
+    },
+    {
+      "id": 10,
+      "name": "Universal Translator",
+      "info": "A device that automatically translates languages for interstellar communication.",
+      "price": 700,
+      "image": ""
+    },
+    {
+      "id": 11,
+      "name": "Dilithium Crystal",
+      "info": "A crystalline substance used as a power source in warp cores.",
+      "price": 3000,
+      "image": ""
+    },
+    {
+      "id": 12,
+      "name": "Holoemitter",
+      "info": "A device that projects holographic images and objects into the real world.",
+      "price": 900,
+      "image": ""
+    },
+    {
+      "id": 13,
+      "name": "Phaser Communicator",
+      "info": "A combination of a phaser and a communicator for emergency situations.",
+      "price": 800,
+      "image": ""
+    },
+    {
+      "id": 14,
+      "name": "Deflector Shield",
+      "info": "A protective energy barrier that shields starships from debris and weapons.",
+      "price": 4000,
+      "image": ""
+    },
+    {
+      "id": 15,
+      "name": "Hypospray",
+      "info": "A medical device for administering medications through the skin without needles.",
+      "price": 600,
+      "image": ""
+    },
+    {
+      "id": 16,
+      "name": "Tribble",
+      "info": "A small, furry creature known for its rapid reproduction and soothing purring sound.",
+      "price": 20,
+      "image": ""
+    },
+    {
+      "id": 17,
+      "name": "Isolinear Chip",
+      "info": "A data storage device used in Starfleet computer systems.",
+      "price": 400,
+      "image": ""
+    },
+    {
+      "id": 18,
+      "name": "PADD (Personal Access Display Device)",
+      "info": "A handheld computer tablet used for data access and communication.",
+      "price": 350,
+      "image": ""
+    },
+    {
+      "id": 19,
+      "name": "Tractor Beam",
+      "info": "A technology used to manipulate and move objects using directed energy.",
+      "price": 1800,
+      "image": ""
+    },
+    {
+      "id": 20,
+      "name": "Phaser Bank",
+      "info": "A stationary energy weapon emplacement used for starbase and ship defense.",
+      "price": 3000,
+      "image": ""
+    },
+    {
+      "id": 21,
+      "name": "Hydrospanner",
+      "info": "A handheld tool used for repairing and maintaining starship systems.",
+      "price": 150,
+      "image": ""
+    },
+    {
+      "id": 22,
+      "name": "Federation Uniform",
+      "info": "Standard attire worn by Starfleet officers and personnel.",
+      "price": 100,
+      "image": ""
+    },
+    {
+      "id": 23,
+      "name": "Isolinear Rod",
+      "info": "A component used in the construction of advanced computer systems.",
+      "price": 600,
+      "image": ""
+    },
+    {
+      "id": 24,
+      "name": "Geological Tricorder",
+      "info": "A tricorder specialized for geological surveys and analysis.",
+      "price": 700,
+      "image": ""
+    },
+    {
+      "id": 25,
+      "name": "Holographic Doctor (EMH)",
+      "info": "A holographic medical program with extensive medical knowledge and abilities.",
+      "price": 3500,
+      "image": ""
+    }
+    ]
+  
+  
 }
