@@ -1,84 +1,127 @@
-[
-    {
+{
+    "Next-Generation": [
+      {
         "id": 1,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Patrick_Steward_as_Jean-Luc_Picard_in_1996%27s_Star_Trek_First_Contact.jpg/220px-Patrick_Steward_as_Jean-Luc_Picard_in_1996%27s_Star_Trek_First_Contact.jpg",
+        "avatar": "url_to_avatar1.jpg",
         "name": "Jean-Luc Picard",
-        "species": "human - sintetic human",
-        "afiliation": "Starfleet",
-        "Origin": "La Barre, France, Earth",
-        "rank": "Captain - Admiral"
-    },
-    {
-        "id": 2,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/WorfTNG.jpg/220px-WorfTNG.jpg",
-        "name": "Worf",
-        "species": "klingon",
-        "afiliation": ["United Federation of Planets", "Starfleet", "Klingon Empire", "House of Martok", "House of Mogh"],
-        "Origin": "Q'ronos",
-        "rank": "Lieutenant Commander"
-    },
-    {
-        "id": 3,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/DataTNG.jpg/220px-DataTNG.jpg",
-        "name": "Data Soong",
-        "species": "Soong-Type Synthetic intelligence Android-lifeform",
-        "afiliation": "Starfleet",
-        "Origin": "Omicron Theta",
-        "rank": "Lieutenant Commander"
-    },
-    {
-        "id": 4,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/WilRiker.jpg/220px-WilRiker.jpg",
-        "name": "William Riker",
-        "species": "human",
-        "afiliation": "Starfleet",
-        "Origin": "Alaska, United States, Earth",
-        "rank": "Captain - Commander"
-    },
-    {
-        "id": 5,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/DeannaTroi.jpg/220px-DeannaTroi.jpg",
-        "name": "Deanna Troi",
-        "species": "Betazoid - Human",
-        "afiliation": "Starfleet",
-        "Origin": "Lake El-Nar, Betazed",
-        "rank": "Commander - Lieutenant Commander"
-    },
-    {
-        "id": 6,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/WesleyCrusher2366.jpg/220px-WesleyCrusher2366.jpg",
-        "name": "Wesley Crusher",
         "species": "Human",
-        "afiliation": "Starfleet",
-        "Origin": "San Francisco, United States, Earth",
-        "rank": "Engineering Officer (Lieutenant)"
-    },
-    {
-        "id": 7,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Beverley_Crusher.jpg/220px-Beverley_Crusher.jpg",
+        "rank": "Captain",
+        "origin": "La Barre, France, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "July 13, 2305",
+        "gift": "not sent"
+      },
+      {
+        "id": 2,
+        "avatar": "url_to_avatar2.jpg",
+        "name": "Data",
+        "species": "Android",
+        "rank": "Lieutenant Commander",
+        "origin": "Omaha, Nebraska, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "February 2, 2338",
+        "gift": "not sent"
+      },
+      {
+        "id": 3,
+        "avatar": "url_to_avatar3.jpg",
+        "name": "Worf",
+        "species": "Klingon",
+        "rank": "Lieutenant - Lieutenant Commander",
+        "origin": "Q'onoS, Klingon homeworld",
+        "affiliation": "Starfleet",
+        "birthdate": "December 9, 2340",
+        "gift": "not sent"
+      },
+      {
+        "id": 4,
+        "avatar": "url_to_avatar4.jpg",
+        "name": "Deanna Troi",
+        "species": "Betazoid",
+        "rank": "Lieutenant Commander",
+        "origin": "Betazed",
+        "affiliation": "Starfleet",
+        "birthdate": "March 29, 2336",
+        "gift": "not sent"
+      },
+      {
+        "id": 5,
+        "avatar": "url_to_avatar5.jpg",
         "name": "Beverly Crusher",
         "species": "Human",
-        "afiliation": "Starfleet",
-        "Origin": "Copernicus City, Luna",
-        "rank": "Chief medical officer - Commander"
-    },
-    {
-        "id": 8,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GeordiLaForge.jpg/220px-GeordiLaForge.jpg",
+        "rank": "Commander",
+        "origin": "Copernicus City, Earth's moon",
+        "affiliation": "Starfleet",
+        "birthdate": "October 13, 2324",
+        "gift": "not sent"
+      },
+      {
+        "id": 6,
+        "avatar": "url_to_avatar6.jpg",
         "name": "Geordi La Forge",
         "species": "Human",
-        "afiliation": "Starfleet",
-        "Origin": "Mogadishu, Somalia, Earth",
-        "rank": "Chief Engineer"
-    },
-
-    {
+        "rank": "Lieutenant Commander",
+        "origin": "Mogadishu, Somalia, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "February 16, 2335",
+        "gift": "not sent"
+      },
+      {
+        "id": 7,
+        "avatar": "url_to_avatar7.jpg",
+        "name": "William Riker",
+        "species": "Human",
+        "rank": "Commander",
+        "origin": "Valdez, Alaska, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "August 19, 2335",
+        "gift": "not sent"
+      },
+      {
+        "id": 8,
+        "avatar": "url_to_avatar8.jpg",
+        "name": "Reginald Barclay",
+        "species": "Human",
+        "rank": "Lieutenant",
+        "origin": "Chesapeake, Virginia, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "October 29, 2340",
+        "gift": "not sent"
+      },
+      {
         "id": 9,
-        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/TashaYar.jpg/220px-TashaYar.jpg",
+        "avatar": "url_to_avatar9.jpg",
+        "name": "Miles O'Brien",
+        "species": "Human",
+        "rank": "Chief Petty Officer",
+        "origin": "Killarney, Ireland, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "September 2328",
+        "gift": "not sent"
+      },
+      {
+        "id": 10,
+        "avatar": "url_to_avatar10.jpg",
+        "name": "Wesley Crusher",
+        "species": "Human",
+        "rank": "Ensign",
+        "origin": "Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "July 29, 2349",
+        "gift": "not sent"
+      },
+      {
+        "id": 11,
+        "avatar": "url_to_avatar11.jpg",
         "name": "Natasha Yar",
         "species": "Human",
-        "afiliation": "Starfleet",
-        "Origin": "Turkana IV",
-        "rank": "Chief Security Officer - Lieutenant"
-    }
-]
+        "rank": "Lieutenant",
+        "origin": "Turkana IV, Earth",
+        "affiliation": "Starfleet",
+        "birthdate": "2337",
+        "gift": "not sent"
+      }
+ 
+    ]
+  }
+  
