@@ -8,7 +8,7 @@
         "Satellite": "Bajoran moons",
         "Native species": "Bajorans",
         "Info": "Bajor is a Class M planet located near a stable wormhole. It plays a significant role in Star Trek lore, as it is the homeworld of the Bajoran people and the location of the Bajoran wormhole. The planet has a rich cultural and religious history, and it was occupied by the Cardassian Union before gaining its independence with the help of the United Federation of Planets. The planet's capital is Deep Space 9, a vital space station and hub of interstellar diplomacy.",
-        "Image": "/images/worlds/bajo.png"
+        "Image": "./images/worlds/bajo.png"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "Satellite": "Several, including T'Khut",
         "Native species": "Vulcans",
         "Info": "Vulcan is the homeworld of the Vulcan species and known for its logical and highly disciplined inhabitants. The planet has a harsh, arid climate with a thin atmosphere, but its inhabitants have adapted to these conditions. It is the founding member of the United Federation of Planets and home to the Vulcan Science Academy.",
-        "Image": "/images/worlds/vulcan.jpg"
+        "Image": "./images/worlds/vulcan.jpg"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "Satellite": "Two moons, Praxis and Charon",
         "Native species": "Klingons",
         "Info": "Qo'noS, often referred to as Kronos, is the homeworld of the Klingon Empire. It is known for its warrior culture, honor code, and unique physical appearance. The planet's government is a council of Klingon Great Houses. Qo'noS has a strong military tradition and has been a central player in the galaxy's political landscape.",
-        "Image": "/images/worlds/Qo'noS.png"
+        "Image": "./images/worlds/Qo'noS.png"
     },
     {
         "id": 4,
