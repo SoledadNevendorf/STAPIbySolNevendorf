@@ -1,36 +1,112 @@
 [
     {
         "id": 1,
-        "Name": "Talos IV",
+        "Name": "Bajor",
         "Class": "M",
         "Type": "Planet",
-        "State":"Habitable (2267)",
-        "Satelite": "None",
-        "Native species": "Talosians",
-        "Info": "Fourth planet of the Talos System, Class M, with a gravity of 0.9, atmosphere of oxygen and nitrogen with some inert elements.",
-        "Image": "https://trekipedia.com/mw/images/b/b9/talos-04-tos00.jpg"
+        "State": "Habitable (24th Century)",
+        "Satellite": "Bajoran moons",
+        "Native species": "Bajorans",
+        "Info": "Bajor is a Class M planet located near a stable wormhole. It plays a significant role in Star Trek lore, as it is the homeworld of the Bajoran people and the location of the Bajoran wormhole. The planet has a rich cultural and religious history, and it was occupied by the Cardassian Union before gaining its independence with the help of the United Federation of Planets. The planet's capital is Deep Space 9, a vital space station and hub of interstellar diplomacy.",
+        "Image": "/images/worlds/bajo.png"
     },
     {
         "id": 2,
-        "Name": "Terra Nova",
-        "Class": "L",
+        "Name": "Vulcan",
+        "Class": "M",
         "Type": "Planet",
-        "State":"Unoccupied",
-        "Satelite": "None",
-        "Native species": "None",
-        "Info": "Planet where the first space colonization in deep space went. It is located 20 light years from Earth. The planet was colonized in the year 2076. Shortly after arriving, an asteroid collided with the planet, raising a radioactive fallout that killed almost the entire population; their descendants hid in caves, and they believe that humans from Earth were responsible for the catastrophe.",
-        "Image": "https://static.wikia.nocookie.net/memoryalpha/images/1/18/Terranova.jpg/revision/latest?cb=20051022224919&path-prefix=es"
+        "State": "Habitable",
+        "Satellite": "Several, including T'Khut",
+        "Native species": "Vulcans",
+        "Info": "Vulcan is the homeworld of the Vulcan species and known for its logical and highly disciplined inhabitants. The planet has a harsh, arid climate with a thin atmosphere, but its inhabitants have adapted to these conditions. It is the founding member of the United Federation of Planets and home to the Vulcan Science Academy.",
+        "Image": "/images/worlds/vulcan.jpg"
     },
     {
         "id": 3,
-        "Name": "Valakis",
+        "Name": "Qo'noS",
         "Class": "M",
         "Type": "Planet",
-        "State":"Habitable (3457)",
-        "Satelite": "None",
-        "Native species": "Valakians and Menk",
-        "Info": "Valakis is a planet that was the home world of two humanoid species, the Valakians and the Menks. Despite their differences, the Valakians and the Menks coexisted peacefully. The Valakians provided land, food, and in some cases employment to the Menks.",
-        "Image": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Valakis_from_space.jpg/revision/latest/scale-to-width-down/180?cb=20060120224136&path-prefix=en"
-    }
-
+        "State": "Habitable",
+        "Satellite": "Two moons, Praxis and Charon",
+        "Native species": "Klingons",
+        "Info": "Qo'noS, often referred to as Kronos, is the homeworld of the Klingon Empire. It is known for its warrior culture, honor code, and unique physical appearance. The planet's government is a council of Klingon Great Houses. Qo'noS has a strong military tradition and has been a central player in the galaxy's political landscape.",
+        "Image": "/images/worlds/Qo'noS.png"
+    },
+    {
+        "id": 4,
+        "Name": "Andoria",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable",
+        "Satellite": "One moon, Andor",
+        "Native species": "Andorians",
+        "Info": "Andoria is the icy homeworld of the blue-skinned Andorian species. It is known for its harsh, subarctic climate and icy landscapes. Andoria is one of the founding members of the United Federation of Planets and has a strong warrior tradition.",
+        "Image": "https://trekipedia.com/mw/images/f/fd/andoria-tos01.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Breen homeworld",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable",
+        "Satellite": "Unknown",
+        "Native species": "Breen",
+        "Info": "The Breen homeworld is the home planet of the enigmatic Breen species. It is known for its frozen and inhospitable environment. The Breen species is known for its secrecy and distinctive refrigeration suits.",
+        "Image": "https://trekipedia.com/mw/images/e/e3/breen-homeworld-ds902.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Betazed",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable",
+        "Satellite": "None",
+        "Native species": "Betazoids",
+        "Info": "Betazed is the homeworld of the Betazoid species, known for their telepathic abilities. The planet has a lush, tropical climate and is known for its warm and empathetic culture. It is a member of the United Federation of Planets.",
+        "Image": "https://trekipedia.com/mw/images/e/ea/betazed-tng01.jpg"
+    },
+    {
+        "id": 7,
+        "Name": "Risa",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable (24th Century)",
+        "Satellite": "None",
+        "Native species": "Risians",
+        "Info": "Risa is a paradise planet known for its beautiful beaches and relaxation resorts. It is a popular vacation spot for beings from across the galaxy, including Starfleet officers seeking rest and recreation.",
+        "Image": "https://trekipedia.com/mw/images/1/14/risa-tng01.jpg"
+    },
+    {
+        "id": 8,
+        "Name": "Cardassia Prime",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable (pre-Dominion War)",
+        "Satellite": "Unknown",
+        "Native species": "Cardassians",
+        "Info": "Cardassia Prime is the homeworld of the Cardassian species and the capital of the Cardassian Union. It is known for its authoritarian government, military hierarchy, and intricate architecture.",
+        "Image": "https://trekipedia.com/mw/images/7/75/cardassia-ds901.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Trill",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable",
+        "Satellite": "Trill's moons",
+        "Native species": "Trill symbionts and Trill hosts",
+        "Info": "Trill is known for its unique symbiotic relationship between symbionts and humanoid hosts. The symbionts contain the memories and experiences of previous hosts, creating a distinctive cultural and social structure.",
+        "Image": "https://trekipedia.com/mw/images/0/0b/trill-ds901.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "Romulus",
+        "Class": "M",
+        "Type": "Planet",
+        "State": "Habitable (pre-Hobus supernova)",
+        "Satellite": "Remus",
+        "Native species": "Romulans",
+        "Info": "Romulus was the homeworld of the Romulan Star Empire. It had a secretive and militaristic society. The planet was destroyed in the Hobus supernova event, leading to significant political changes in the region.",
+        "Image": "https://trekipedia.com"
+    } 
 ]
