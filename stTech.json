@@ -24,7 +24,7 @@
     },
     {
       "spaceCraftID": 3,
-      "image": "",
+      "image": "https://i.pinimg.com/474x/8c/9b/50/8c9b50f6e66376eef164f107fdd75245.jpg",
       "name": "Klingon Bird-of-Prey",
       "registry": "Varies",
       "status": "Active",
@@ -35,7 +35,7 @@
     },
     {
       "spaceCraftID": 4,
-      "image": "",
+      "image": "https://i.pinimg.com/originals/f3/85/de/f385ded3390b57c4afe3a40ec03c0b7a.jpg",
       "name": "Romulan Warbird",
       "registry": "Varies",
       "status": "Active",
