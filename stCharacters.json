@@ -2,7 +2,7 @@
     "nextGeneration": [
       {
         "id": 1,
-        "avatar": "url_to_avatar1.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jean-Luc_Picard.jpg",
         "name": "Jean-Luc Picard",
         "species": "Human",
         "rank": "Captain",
@@ -13,7 +13,7 @@
       },
       {
         "id": 2,
-        "avatar": "url_to_avatar2.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/0/09/DataTNG.jpg",
         "name": "Data",
         "species": "Android",
         "rank": "Lieutenant Commander",
@@ -24,7 +24,7 @@
       },
       {
         "id": 3,
-        "avatar": "url_to_avatar3.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/e/ed/WorfTNG.jpg",
         "name": "Worf",
         "species": "Klingon",
         "rank": "Lieutenant - Lieutenant Commander",
@@ -35,7 +35,7 @@
       },
       {
         "id": 4,
-        "avatar": "url_to_avatar4.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/DeannaTroi.jpg/220px-DeannaTroi.jpg",
         "name": "Deanna Troi",
         "species": "Betazoid",
         "rank": "Lieutenant Commander",
@@ -46,7 +46,7 @@
       },
       {
         "id": 5,
-        "avatar": "url_to_avatar5.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/5/53/Beverley_Crusher.jpg",
         "name": "Beverly Crusher",
         "species": "Human",
         "rank": "Commander",
@@ -57,7 +57,7 @@
       },
       {
         "id": 6,
-        "avatar": "url_to_avatar6.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GeordiLaForge.jpg/220px-GeordiLaForge.jpg",
         "name": "Geordi La Forge",
         "species": "Human",
         "rank": "Lieutenant Commander",
@@ -68,7 +68,7 @@
       },
       {
         "id": 7,
-        "avatar": "url_to_avatar7.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/2/20/WilRiker.jpg",
         "name": "William Riker",
         "species": "Human",
         "rank": "Commander",
@@ -79,7 +79,7 @@
       },
       {
         "id": 8,
-        "avatar": "url_to_avatar8.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Reginald_Barclay.jpg/220px-Reginald_Barclay.jpg",
         "name": "Reginald Barclay",
         "species": "Human",
         "rank": "Lieutenant",
@@ -90,7 +90,7 @@
       },
       {
         "id": 9,
-        "avatar": "url_to_avatar9.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/7/75/Milesobrien.jpg",
         "name": "Miles O'Brien",
         "species": "Human",
         "rank": "Chief Petty Officer",
@@ -101,7 +101,7 @@
       },
       {
         "id": 10,
-        "avatar": "url_to_avatar10.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/e/e6/WesleyCrusher2366.jpg",
         "name": "Wesley Crusher",
         "species": "Human",
         "rank": "Ensign",
@@ -112,7 +112,7 @@
       },
       {
         "id": 11,
-        "avatar": "url_to_avatar11.jpg",
+        "avatar": "https://upload.wikimedia.org/wikipedia/en/6/6d/TashaYar.jpg",
         "name": "Natasha Yar",
         "species": "Human",
         "rank": "Lieutenant",
